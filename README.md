@@ -1,16 +1,40 @@
-## Hi there 👋
+<img width="2172" height="724" alt="ali-azaz-rafe-open-to-work-banner" src="https://github.com/user-attachments/assets/756ada1c-7a23-49e1-bae3-92bd2281a0bd" />
 
-<!--
-**aliazazrafe/aliazazrafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, I'm Ali Azaz Rafe 
 
-Here are some ideas to get you started:
+Aspiring Full Stack Web Developer passionate about building modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Currently learning React, Node.js and TypeScript
+-  Open to internships and collaboration opportunities
+
+  Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, TypeScript, Next.js, React, Tailwind CSS
+- Backend: Node.js, Express.js
+- Data & API: JSON, REST API
+- Tools: Git, GitHub, VS Code
+- Programming: C++, Java, C#
+
+  Other Skills
+
+  - Microsoft Office (Word, Excel, PowerPoint)
+ 
+  Interests & Creative Skills
+  
+- Playing  Guitar
+- Photography
+- English Communication
+
+ Connect with me
+
+-Email: aliazazrafe2000@gmail.com
+-Facebook: [Ali Azaz Rafe](https://www.facebook.com/aliazazrafe)
+- Phone: +880 1785585936
+- WhatsApp: [Message me on WhatsApp](https://wa.me/8801785585936)
+-  LinkedIn: [aliazazrafe](https://www.linkedin.com/in/aliazazrafe/)
+- Instagram: [@aliazaz_rafe](https://www.instagram.com/aliazaz_rafe/)
+
+ Featured Projects
+ 
+
+
