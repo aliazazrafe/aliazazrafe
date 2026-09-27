@@ -81,9 +81,13 @@ Interests & Creative Skills
 
  GitHub Activity
 
+<br>
 
-</hr>
+<hr>
 
+<br>
+
+<h2 align="center">⚡ My GitHub Activity</h2>
 
 <br>
 
