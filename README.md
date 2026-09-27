@@ -84,10 +84,14 @@ Interests & Creative Skills
 <br/>
 <br>
 
-<h2 align="center">🐍 My GitHub Activity</h2>
+<h2 align="center">⚡ My GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aliazazrafe/aliazazrafe/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Projects+%F0%9F%9A%80;Learning+Every+Day+%F0%9F%92%BB;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliazazrafe&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 <br>
