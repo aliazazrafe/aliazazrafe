@@ -87,8 +87,6 @@ Interests & Creative Skills
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliazazrafe&bg_color=0d1117&color=c9d1d9&line=39d353&point=58a6ff&area=true&hide_border=true" alt="Ali Azaz Rafe's GitHub activity graph" />
-</p>
+![Glowing Flow Animation](https://raw.githubusercontent.com/aliazazrafe/aliazazrafe/main/contribution-glowing-flow.gif)
 
 
