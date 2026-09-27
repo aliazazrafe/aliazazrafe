@@ -90,7 +90,7 @@ Interests & Creative Skills
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/aliazazrafe/README-Arcade/main/dist/readme-arcade-dark.svg"
-    alt="Ali Azaz Rafe GitHub Activity"
+    alt="GitHub Activity Animation"
     width="100%"
   />
 </p>
