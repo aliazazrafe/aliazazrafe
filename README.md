@@ -117,3 +117,65 @@ Interests & Creative Skills
 <br>
 
 ---
+<br>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect
+
+<p>
+  I'm always open to connecting with developers, learning new technologies,
+  collaborating on interesting projects, and exploring new opportunities.
+</p>
+
+<p>
+  <a href="https://github.com/aliazazrafe">
+    <img src="https://img.shields.io/badge/GitHub-aliazazrafe-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+<hr>
+
+ Developer Mindset
+
+> "Every line of code is another step toward becoming a better developer."
+
+<p>
+  Build &nbsp; • &nbsp;
+  Learn &nbsp; • &nbsp;
+  Create &nbsp; • &nbsp;
+   Improve
+</p>
+
+<br>
+
+ Open To
+
+`Internships` &nbsp; • &nbsp;
+`Collaborations` &nbsp; • &nbsp;
+`Open Source` &nbsp; • &nbsp;
+`Web Development Projects`
+
+<br><br>
+
+Thanks for Visiting!
+
+<p>
+  Thanks for stopping by my GitHub profile.<br>
+  Feel free to explore my repositories and follow my development journey.
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=aliazazrafe&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
+ Code. Learn. Build. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=25&fontAlignY=72&animation=twinkling&theme=tokyonight" width="100%" />
+
+</div>
