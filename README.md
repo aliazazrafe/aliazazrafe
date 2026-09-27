@@ -35,23 +35,23 @@ Aspiring Full Stack Web Developer passionate about building modern web applicati
 - Instagram: [@aliazaz_rafe](https://www.instagram.com/aliazaz_rafe/)
 
  Featured Projects
- 1- [Developer Conference Website](https://github.com/aliazazrafe/assignment-1) 
- — [Live Demo](https://aliazazrafe.github.io/assignment-1/)
+ 1-   [Developer Conference Website](https://github.com/aliazazrafe/assignment-1) 
+    — [Live Demo](https://aliazazrafe.github.io/assignment-1/)
  
 2. - [Responsive Practice Website](https://github.com/aliazazrafe/tiny)
-— [Live Demo](https://aliazazrafe.github.io/tiny/)
+   — [Live Demo](https://aliazazrafe.github.io/tiny/)
 
 3.- [E-School Educational Landing Page](https://github.com/aliazazrafe/E-school) — 
-[Live Demo](https://aliazazrafe.github.io/E-school/)
+   [Live Demo](https://aliazazrafe.github.io/E-school/)
 
 4. - [Pixal Landing Page](https://github.com/aliazazrafe/pixal-) —
-[Live Demo](https://aliazazrafe.github.io/pixal-/)
+    [Live Demo](https://aliazazrafe.github.io/pixal-/)
 
 5. - [Personal Portfolio Website](https://github.com/aliazazrafe/personal-port-foliowebsite-v1) — 
-[Live Demo](https://aliazazrafe.github.io/personal-port-foliowebsite-v1/)
+    [Live Demo](https://aliazazrafe.github.io/personal-port-foliowebsite-v1/)
 
 6. - [Figma Design Implementation](https://github.com/aliazazrafe/figma-exam) — 
-[Live Demo](https://aliazazrafe.github.io/figma-exam/)
+    [Live Demo](https://aliazazrafe.github.io/figma-exam/)
 
 
 
