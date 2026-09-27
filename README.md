@@ -63,11 +63,17 @@ Aspiring Full Stack Web Developer passionate about building modern web applicati
 
 6. [Figma Design Implementation](https://github.com/aliazazrafe/figma-exam) — [Live Demo](https://aliazazrafe.github.io/figma-exam/)
 
-   <p align="center">
+
+
+
+
+
+
+
+  <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aliazazrafe&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali Azaz Rafe's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazazrafe&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
-
 
 
 
