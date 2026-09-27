@@ -69,8 +69,7 @@ Aspiring Full Stack Web Developer passionate about building modern web applicati
 
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliazazrafe&show_icons=true&theme=tokyonight)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliazazrafe&theme=github_dark)
 
 
 
