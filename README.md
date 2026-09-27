@@ -82,6 +82,4 @@ Interests & Creative Skills
  GitHub Activity
 
 <br/>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliazazrafe&theme=react-dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliazazrafe&theme=tokyonight)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliazazrafe&theme=react-dark" alt="GitHub Activity Graph" />
