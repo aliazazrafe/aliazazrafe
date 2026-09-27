@@ -139,29 +139,54 @@ Interests & Creative Skills
 <br>
 <hr>
 
- Developer Mindset
+<br>
 
-> "Every line of code is another step toward becoming a better developer."
+---
+
+<div align="center">
+
+<h2>Let's Connect</h2>
+
+<p>
+  I'm always open to connecting with developers, learning new technologies,
+  collaborating on interesting projects, and exploring new opportunities.
+</p>
+
+<p>
+  <a href="https://github.com/aliazazrafe">
+    <img src="https://img.shields.io/badge/GitHub-aliazazrafe-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<h3>Developer Mindset</h3>
+
+<p>
+  <i>"Every line of code is another step toward becoming a better developer."</i>
+</p>
 
 <p>
   Build &nbsp; • &nbsp;
   Learn &nbsp; • &nbsp;
   Create &nbsp; • &nbsp;
-   Improve
+  Improve
 </p>
 
 <br>
 
- Open To
+<h3>Open To</h3>
 
-`Internships` &nbsp; • &nbsp;
-`Collaborations` &nbsp; • &nbsp;
-`Open Source` &nbsp; • &nbsp;
-`Web Development Projects`
+<p>
+  Internships &nbsp; • &nbsp;
+  Collaborations &nbsp; • &nbsp;
+  Open Source &nbsp; • &nbsp;
+  Web Development Projects
+</p>
 
-<br><br>
+<br>
 
-Thanks for Visiting!
+<h3>Thanks for Visiting</h3>
 
 <p>
   Thanks for stopping by my GitHub profile.<br>
@@ -174,8 +199,10 @@ Thanks for Visiting!
 
 <br><br>
 
- Code. Learn. Build. Repeat.
+<h3>Code. Learn. Build. Repeat.</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=25&fontAlignY=72&animation=twinkling&theme=tokyonight" width="100%" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=tokyonight" width="100%" />
 
 </div>
