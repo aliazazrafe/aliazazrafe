@@ -99,7 +99,7 @@ Interests & Creative Skills
 
 <br>
 <hr>
-&
+
 
 <br><br>
 
