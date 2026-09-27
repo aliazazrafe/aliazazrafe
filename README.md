@@ -9,11 +9,30 @@ Aspiring Full Stack Web Developer passionate about building modern web applicati
 
   Tech Stack
 
-- Frontend: HTML, CSS, JavaScript, TypeScript, Next.js, React, Tailwind CSS
-- Backend: Node.js, Express.js
-- Data & API: JSON, REST API
-- Tools: Git, GitHub, VS Code
-- Programming: C++, Java, C#
+### Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+- Backend: Node.js, Express.js  
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+- Data & API: JSON, REST API  
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=swagger&logoColor=white" />
+
+- Tools: Git, GitHub, VS Code  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+- Programming: C++, Java, C#  
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs" />
+
+ Other Skills
+
+- Microsoft Office: Word, Excel, PowerPoint  
+  <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
 
   Other Skills
   
