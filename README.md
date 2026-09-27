@@ -9,7 +9,7 @@ Aspiring Full Stack Web Developer passionate about building modern web applicati
 
 ---
 
- Tech Stack
+&#x20;Tech Stack
 
 Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
@@ -54,7 +54,7 @@ Interests & Creative Skills
 
 ---
 
- Connect with Me
+&#x20;Connect with Me
 
 - Email: aliazazrafe2000@gmail.com
 - Facebook: [Ali Azaz Rafe](https://www.facebook.com/aliazazrafe)
@@ -65,7 +65,7 @@ Interests & Creative Skills
 
 ---
 
- Featured Projects
+&#x20;Featured Projects
 
 1. [Developer Conference Website](https://github.com/aliazazrafe/assignment-1) — [Live Demo](https://aliazazrafe.github.io/assignment-1/)
 
@@ -78,7 +78,6 @@ Interests & Creative Skills
 5. [Personal Portfolio Website](https://github.com/aliazazrafe/personal-port-foliowebsite-v1) — [Live Demo](https://aliazazrafe.github.io/personal-port-foliowebsite-v1/)
 
 6. [Figma Design Implementation](https://github.com/aliazazrafe/figma-exam) — [Live Demo](https://aliazazrafe.github.io/figma-exam/)
-
 
 <br>
 
@@ -100,7 +99,7 @@ Interests & Creative Skills
 
 <br>
 <hr>
- GitHub Stats
+&#x20;GitHub Stats
 
 <div align="left">
 
@@ -117,6 +116,7 @@ Interests & Creative Skills
 <br>
 
 ---
+
 <br>
 
 ---
@@ -167,10 +167,7 @@ Interests & Creative Skills
 </p>
 
 <p>
-  Build &nbsp; • &nbsp;
-  Learn &nbsp; • &nbsp;
-  Create &nbsp; • &nbsp;
-  Improve
+  Build • Learn • Create • Improve
 </p>
 
 <br>
@@ -178,10 +175,7 @@ Interests & Creative Skills
 <h3>Open To</h3>
 
 <p>
-  Internships &nbsp; • &nbsp;
-  Collaborations &nbsp; • &nbsp;
-  Open Source &nbsp; • &nbsp;
-  Web Development Projects
+  Internships • Collaborations • Open Source • Web Development Projects
 </p>
 
 <br>
@@ -206,6 +200,4 @@ Interests & Creative Skills
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=tokyonight" width="100%" />
 
 </div>
-
-
 
