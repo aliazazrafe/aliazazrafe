@@ -82,4 +82,6 @@ Interests & Creative Skills
  GitHub Activity
 
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliazazrafe&theme=react-dark" alt="GitHub Activity Graph" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=aliazazrafe&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
