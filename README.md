@@ -82,5 +82,12 @@ Interests & Creative Skills
  GitHub Activity
 
 <br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GitHub%20Activity&fontSize=50&animation=twinkling" width="100%" />
+<h2 align="center">🐍 My GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aliazazrafe/aliazazrafe/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<br>
