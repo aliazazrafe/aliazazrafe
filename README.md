@@ -1,3 +1,14 @@
+emoji # eigula chara dao
+
+এখন সব সেকশন টাইটেল থেকে emoji আর ## হ্যাশ বাদ দিয়ে শুধু bold text (**Tech Stack** স্টাইলে) করে দিয়েছি — এতে headings এর স্ট্রাকচারও থাকবে, দেখতেও ক্লিন লাগবে, emoji বা hash কিছুই থাকবে না।
+
+Readme
+Document·MD 
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
 Readme · MD
 <img width="2172" height="724" alt="Ali Azaz Rafe - Open to Work Banner" src="https://github.com/user-attachments/assets/756ada1c-7a23-49e1-bae3-92bd2281a0bd" />
 
@@ -63,7 +74,9 @@ Personal Portfolio Website — Live Demo
 Figma Design Implementation — Live Demo
 <br> <hr> <br> <h2 align="left">⚡ My GitHub Activity</h2> <br> <p align="center"> <img src="https://raw.githubusercontent.com/aliazazrafe/README-Arcade/main/dist/readme-arcade-dark.svg" alt="GitHub Activity Animation" width="100%" /> </p> <br> <hr> <br>
 <div align="center">
-🌐 Let's Connect
+
+Let's Connect
+
 <p> I'm always open to connecting with developers, learning new technologies, collaborating on interesting projects, and exploring new opportunities. </p> <p> <a href="https://github.com/aliazazrafe"> <img src="https://img.shields.io/badge/GitHub-aliazazrafe-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <br> <hr> <br>
 <div align="center"> <h2>Let's Connect</h2> <p> I'm always open to connecting with developers, learning new technologies, collaborating on interesting projects, and exploring new opportunities. </p> <p> <a href="https://github.com/aliazazrafe"> <img src="https://img.shields.io/badge/GitHub-aliazazrafe-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <br> <h3>Developer Mindset</h3> <p> <i>"Every line of code is another step toward becoming a better developer."</i> </p> <p> Build • Learn • Create • Improve </p> <br> <h3>Open To</h3> <p> Internships • Collaborations • Open Source • Web Development Projects </p> <br> <h3>Thanks for Visiting</h3> <p> Thanks for stopping by my GitHub profile.<br> Feel free to explore my repositories and follow my development journey. </p> <br> <img src="https://komarev.com/ghpvc/?username=aliazazrafe&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
 
