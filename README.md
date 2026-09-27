@@ -83,4 +83,4 @@ Interests & Creative Skills
 
 <br/>
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=aliazazrafe&theme=react-dark&area=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GitHub%20Activity&fontSize=50&animation=twinkling" width="100%" />
