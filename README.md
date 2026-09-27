@@ -79,7 +79,6 @@ Interests & Creative Skills
 
 6. [Figma Design Implementation](https://github.com/aliazazrafe/figma-exam) — [Live Demo](https://aliazazrafe.github.io/figma-exam/)
 
- GitHub Activity
 
 <br>
 
