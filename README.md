@@ -11,7 +11,7 @@ Aspiring Full Stack Web Developer passionate about building modern web applicati
 
  Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
+Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
 <br/>
@@ -39,7 +39,7 @@ Programming: C++, Java, C#
 
 Other Skills
 
-**Microsoft Office:** Word, Excel, PowerPoint  
+Microsoft Office: Word, Excel, PowerPoint  
 <img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
@@ -82,6 +82,8 @@ Interests & Creative Skills
  GitHub Activity
 
 <br/>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliazazrafe&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aliazazrafe&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aliazazrafe&layout=compact&theme=radical" width="48%" />
 </p>
