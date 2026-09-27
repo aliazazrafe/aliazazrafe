@@ -79,14 +79,9 @@ Interests & Creative Skills
 
 6. [Figma Design Implementation](https://github.com/aliazazrafe/figma-exam) — [Live Demo](https://aliazazrafe.github.io/figma-exam/)
 
-### GitHub Activity
-
-<p align="center">
-  <img src="PASTE_YOUR_GLOWING_FLOW_GIF_LINK_HERE" alt="Glowing Flow Animation" />
-</p>
+ GitHub Activity
 
 <br/>
 
 ![Glowing Flow Animation](https://raw.githubusercontent.com/aliazazrafe/aliazazrafe/main/contribution-glowing-flow.gif)
-
 
