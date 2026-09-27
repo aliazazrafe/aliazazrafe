@@ -83,5 +83,7 @@ Interests & Creative Skills
 
 <br/>
 
-![Glowing Flow Animation](https://raw.githubusercontent.com/aliazazrafe/aliazazrafe/main/contribution-glowing-flow.gif)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_aliazazrafe&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" width="48%" />
+</p>
