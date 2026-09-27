@@ -1,3 +1,4 @@
+Readme · MD
 <img width="2172" height="724" alt="Ali Azaz Rafe - Open to Work Banner" src="https://github.com/user-attachments/assets/756ada1c-7a23-49e1-bae3-92bd2281a0bd" />
 
 Hi, I'm Ali Azaz Rafe
@@ -60,12 +61,7 @@ E-School Educational Landing Page — Live Demo
 Pixal Landing Page — Live Demo
 Personal Portfolio Website — Live Demo
 Figma Design Implementation — Live Demo
-<br> <hr> <br> <h2 align="left">⚡ My GitHub Activity</h2> <br> <p align="center"> <img src="https://raw.githubusercontent.com/aliazazrafe/README-Arcade/main/dist/readme-arcade-dark.svg" alt="GitHub Activity Animation" width="100%" /> </p> <br> <hr> &#x20;GitHub Stats <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=aliazazrafe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazazrafe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" height="170" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=aliazazrafe&theme=tokyonight&hide_border=true&cache_seconds=0" /> </div> <br>
-<br>
+<br> <hr> <br> <h2 align="left">⚡ My GitHub Activity</h2> <br> <p align="center"> <img src="https://raw.githubusercontent.com/aliazazrafe/README-Arcade/main/dist/readme-arcade-dark.svg" alt="GitHub Activity Animation" width="100%" /> </p> <br> <hr> <br>
 <div align="center">
 🌐 Let's Connect
 <p> I'm always open to connecting with developers, learning new technologies, collaborating on interesting projects, and exploring new opportunities. </p> <p> <a href="https://github.com/aliazazrafe"> <img src="https://img.shields.io/badge/GitHub-aliazazrafe-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <br> <hr> <br>
