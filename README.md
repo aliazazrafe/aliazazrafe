@@ -34,10 +34,7 @@ Aspiring Full Stack Web Developer passionate about building modern web applicati
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
 
-  Other Skills
-  
- - Microsoft Office (Word, Excel, PowerPoint)
- 
+
   Interests & Creative Skills
   
 - Playing  Guitar
