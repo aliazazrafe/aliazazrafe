@@ -103,13 +103,13 @@ Interests & Creative Skills
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aliazazrafe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=aliazazrafe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazazrafe&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazazrafe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" height="170" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=aliazazrafe&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=aliazazrafe&theme=tokyonight&hide_border=true&cache_seconds=0" />
 
 </div>
 
