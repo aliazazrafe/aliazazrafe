@@ -81,7 +81,6 @@ Interests & Creative Skills
 
  GitHub Activity
 
-
 <br>
 
 <h2 align="center">⚡ My GitHub Activity</h2>
@@ -89,12 +88,11 @@ Interests & Creative Skills
 <br>
 
 <p align="center">
-  <a href="https://github.com/aliazazrafe">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=aliazazrafe&theme=github-compact&hide_border=true"
-      alt="GitHub Activity Graph"
-    />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/aliazazrafe/README-Arcade/main/dist/readme-arcade-dark.svg"
+    alt="Ali Azaz Rafe GitHub Activity"
+    width="100%"
+  />
 </p>
 
 <br>
