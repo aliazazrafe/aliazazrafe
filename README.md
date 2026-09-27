@@ -82,7 +82,6 @@ Interests & Creative Skills
  GitHub Activity
 
 <br/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliazazrafe&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazazrafe&layout=compact&theme=radical" width="48%" />
